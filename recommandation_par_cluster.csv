@@ -1,0 +1,651 @@
+artiste_source,artiste_similaire,score,nom,affinite,score_reco,cluster
+The Voidz,Julian Casablancas,1.0,The Voidz,6,6.0,4
+Joji,88rising,1.0,Joji,6,6.0,0
+Muse,Royal Blood,1.0,Muse,6,6.0,4
+Pierce The Veil,Sleeping With Sirens,1.0,Pierce The Veil,6,6.0,5
+Kanye West,¥$,1.0,Kanye West,6,6.0,1
+The Weeknd,Tory Lanez,1.0,The Weeknd,6,6.0,0
+Fairuz,Majida El Roumi,1.0,Fairuz,6,6.0,5
+Radiohead,Thom Yorke,1.0,Radiohead,6,6.0,4
+The Neighbourhood,Jesse®,1.0,The Neighbourhood,6,6.0,2
+TV Girl,Jordana,1.0,TV Girl,6,6.0,2
+Billie Eilish,FINNEAS,1.0,Billie Eilish,6,6.0,5
+Temples,Pond,1.0,Temples,6,6.0,5
+Tame Impala,Pond,1.0,Tame Impala,6,6.0,5
+The Strokes,The Voidz,1.0,The Strokes,6,6.0,4
+طارق العربي طرقان,Qideyt,1.0,طارق العربي طرقان,6,6.0,5
+Daft Punk,Justice,1.0,Daft Punk,6,6.0,3
+"Tyler, The Creator",OFWGKTA,1.0,"Tyler, The Creator",6,6.0,1
+Gorillaz,"The Good, the Bad & the Queen",1.0,Gorillaz,6,6.0,3
+Kendrick Lamar,Baby Keem,1.0,Kendrick Lamar,6,6.0,1
+Drake,PARTYNEXTDOOR,1.0,Drake,6,6.0,1
+Kali Uchis,SZA,1.0,Kali Uchis,6,6.0,0
+Travis Scott,Don Toliver,1.0,Travis Scott,6,6.0,1
+Joji,Bryant Barnes,0.97789,Joji,6,5.86734,0
+طارق العربي طرقان,SpaceToon,0.975956,طارق العربي طرقان,6,5.855736,5
+The Strokes,Julian Casablancas,0.940326,The Strokes,6,5.641956,4
+Joji,Alan Vuong,0.914594,Joji,6,5.487564,0
+Kanye West,KIDS SEE GHOSTS,0.911469,Kanye West,6,5.468814,1
+Travis Scott,Metro Boomin,0.910321,Travis Scott,6,5.461926,1
+Kendrick Lamar,Jay Rock,0.898585,Kendrick Lamar,6,5.39151,1
+Kendrick Lamar,JID,0.873089,Kendrick Lamar,6,5.238534,1
+Kendrick Lamar,"Tyler, The Creator",0.85014,Kendrick Lamar,6,5.10084,1
+Fairuz,Abdel Halim Hafez,0.849123,Fairuz,6,5.094738,5
+Gorillaz,Damon Albarn,0.845508,Gorillaz,6,5.073048,3
+The Voidz,The Strokes,0.844501,The Voidz,6,5.067005999999999,4
+Fairuz,Ziad Rahbani,0.838264,Fairuz,6,5.029584,5
+Hotel Ugly,MARQ,1.0,Hotel Ugly,5,5.0,2
+Childish Gambino,"Tyler, The Creator",1.0,Childish Gambino,5,5.0,1
+Mac DeMarco,LOVING,1.0,Mac DeMarco,5,5.0,2
+Khaled,Cheb Mami,1.0,Khaled,5,5.0,5
+SZA,Summer Walker,1.0,SZA,5,5.0,0
+Vacations,Strawberry Guy,1.0,Vacations,5,5.0,2
+Strawberry Guy,VACATIONS,1.0,Strawberry Guy,5,5.0,2
+Akhras,Autostrad,1.0,Akhras,5,5.0,5
+Balu Brigada,Twenty One Pilots,1.0,Balu Brigada,5,5.0,2
+Malcolm Todd,Troy Javelona,1.0,Malcolm Todd,5,5.0,5
+Beach House,Alvvays,1.0,Beach House,5,5.0,2
+Chezile,Willis,1.0,Chezile,5,5.0,5
+Arctic Monkeys,The Last Shadow Puppets,1.0,Arctic Monkeys,5,5.0,4
+21 Savage,Metro Boomin,1.0,21 Savage,5,5.0,1
+The Symposium,Benches,1.0,The Symposium,5,5.0,2
+Yeat,SeptembersRich,1.0,Yeat,5,5.0,1
+El Shab Arab,Najib Alhoush,1.0,El Shab Arab,5,5.0,5
+alan vuong,Pino,1.0,alan vuong,5,5.0,0
+Men I Trust,Tokyo Tea Room,1.0,Men I Trust,5,5.0,2
+Thundercat,DOMi & JD Beck,1.0,Thundercat,5,5.0,3
+Metro Boomin,21 Savage,1.0,Metro Boomin,5,5.0,1
+MGMT,Starfucker,1.0,MGMT,5,5.0,3
+Parcels,L'Impératrice,1.0,Parcels,5,5.0,2
+Mac Miller,Joey Bada$$,1.0,Mac Miller,5,5.0,1
+Pink Floyd,David Gilmour,1.0,Pink Floyd,5,5.0,5
+Justice,Sebastian,1.0,Justice,5,5.0,3
+Steve Lacy,The Internet,1.0,Steve Lacy,5,5.0,5
+The Marías,Not For Radio,1.0,The Marías,5,5.0,2
+J. Cole,Bas,1.0,J. Cole,5,5.0,1
+Baby Keem,A$AP Rocky,1.0,Baby Keem,5,5.0,1
+Brent Faiyaz,Sonder,1.0,Brent Faiyaz,5,5.0,0
+A$AP Rocky,A$AP Mob,1.0,A$AP Rocky,5,5.0,1
+Frank Ocean,Daniel Caesar,1.0,Frank Ocean,5,5.0,0
+JPEGMAFIA,Devon Hendryx,1.0,JPEGMAFIA,5,5.0,1
+Cuco,Los Retros,1.0,Cuco,5,5.0,2
+Playboi Carti,Ken Carson,1.0,Playboi Carti,5,5.0,1
+Travis Scott,Huncho Jack,0.827793,Travis Scott,6,4.9667580000000005,1
+Fairuz,Julia Boutros,0.823557,Fairuz,6,4.941342,5
+Pierce The Veil,Isles & Glaciers,0.818902,Pierce The Veil,6,4.913412,5
+The Weeknd,Drake,0.816251,The Weeknd,6,4.897506,0
+Vacations,Yot Club,0.979097,Vacations,5,4.895485,2
+Pink Floyd,Roger Waters,0.974454,Pink Floyd,5,4.87227,5
+Parcels,Franc Moody,0.970717,Parcels,5,4.853585000000001,2
+J. Cole,Dreamville,0.95624,J. Cole,5,4.7812,1
+El Shab Arab,Hamid El Shaeri,0.952879,El Shab Arab,5,4.764395,5
+Kali Uchis,Doja Cat,0.792845,Kali Uchis,6,4.757070000000001,0
+The Weeknd,Black Atlass,0.78327,The Weeknd,6,4.69962,0
+Akhras,Karim Osama,0.937808,Akhras,5,4.68904,5
+Thundercat,Louis Cole,0.937738,Thundercat,5,4.688689999999999,3
+Pierce The Veil,Before Today,0.780479,Pierce The Veil,6,4.682874,5
+طارق العربي طرقان,Mazzikas,0.774144,طارق العربي طرقان,6,4.644864,5
+Baby Keem,Kendrick Lamar,0.921354,Baby Keem,5,4.60677,1
+Kendrick Lamar,Black Hippy,0.761484,Kendrick Lamar,6,4.568904,1
+Kendrick Lamar,Kanye West,0.761217,Kendrick Lamar,6,4.567302,1
+MGMT,Pond,0.905345,MGMT,5,4.526725,3
+Beach House,Slowdive,0.904814,Beach House,5,4.52407,2
+Thundercat,Jill Scott,0.904456,Thundercat,5,4.52228,3
+Mac DeMarco,VACATIONS,0.899149,Mac DeMarco,5,4.495744999999999,2
+Men I Trust,strongboi,0.891437,Men I Trust,5,4.457185,2
+The Symposium,Mustard Service,0.888118,The Symposium,5,4.44059,2
+Thundercat,Anderson .Paak,0.887083,Thundercat,5,4.435415,3
+The Symposium,machinegum,0.885328,The Symposium,5,4.42664,2
+The Weeknd,PARTYNEXTDOOR,0.734531,The Weeknd,6,4.407186,0
+Metro Boomin,Travi$ Scott,0.877673,Metro Boomin,5,4.388365,1
+J. Cole,Cozz,0.874928,J. Cole,5,4.37464,1
+alan vuong,Avenoir,0.873008,alan vuong,5,4.3650400000000005,0
+A$AP Rocky,Baby Keem,0.872473,A$AP Rocky,5,4.3623650000000005,1
+Mac Miller,Isaiah Rashad,0.86791,Mac Miller,5,4.33955,1
+Daft Punk,Modjo,0.718737,Daft Punk,6,4.312422,3
+Frank Ocean,Brent Faiyaz,0.857734,Frank Ocean,5,4.28867,0
+Muse,Placebo,0.711328,Muse,6,4.267968,4
+The Strokes,"Albert Hammond, Jr.",0.711122,The Strokes,6,4.266732,4
+The Symposium,Inner Wave,0.848366,The Symposium,5,4.24183,2
+The Weeknd,Don Toliver,0.706612,The Weeknd,6,4.2396720000000006,0
+Travis Scott,JACKBOYS,0.705182,Travis Scott,6,4.231092,1
+El Shab Arab,Ahmed Ben Ali,0.841445,El Shab Arab,5,4.207225,5
+Playboi Carti,Destroy Lonely,0.841423,Playboi Carti,5,4.207115,1
+The Symposium,Hot Flash Heat Wave,0.841002,The Symposium,5,4.20501,2
+Tame Impala,Melody's Echo Chamber,0.700642,Tame Impala,6,4.203852,5
+Kendrick Lamar,J. Cole,0.700636,Kendrick Lamar,6,4.203816,1
+Khaled,Cheb Hasni,0.840469,Khaled,5,4.202345,5
+Kendrick Lamar,ScHoolboy Q,0.698947,Kendrick Lamar,6,4.193682,1
+Mac DeMarco,Current Joys,0.83814,Mac DeMarco,5,4.1907,2
+Metro Boomin,JACKBOYS,0.835772,Metro Boomin,5,4.17886,1
+Fairuz,Sabah,0.695273,Fairuz,6,4.171638,5
+alan vuong,Nobu Woods,0.830648,alan vuong,5,4.15324,0
+J. Cole,JID,0.830197,J. Cole,5,4.150985,1
+Chezile,Ralph Castelli,0.829075,Chezile,5,4.145375,5
+The Symposium,"Albert Hammond, Jr.",0.827097,The Symposium,5,4.135485,2
+Mac Miller,Vince Staples,0.823729,Mac Miller,5,4.118645,1
+Kendrick Lamar,A$AP Rocky,0.686031,Kendrick Lamar,6,4.116186,1
+Muse,Nothing But Thieves,0.681477,Muse,6,4.088862,4
+Baby Keem,Don Toliver,0.813327,Baby Keem,5,4.066635,1
+Kendrick Lamar,Kendrick Lamar & SZA,0.67706,Kendrick Lamar,6,4.06236,1
+Mac DeMarco,TV Girl,0.811818,Mac DeMarco,5,4.05909,2
+Parcels,Poolside,0.803313,Parcels,5,4.016565,2
+Kanye West,JAY-Z & Kanye West,0.667727,Kanye West,6,4.006361999999999,1
+Mac Miller,Childish Gambino,0.799301,Mac Miller,5,3.996505,1
+Tame Impala,GUM,0.665735,Tame Impala,6,3.99441,5
+Travis Scott,21 Savage,0.665464,Travis Scott,6,3.992784,1
+MGMT,Foster the People,0.798475,MGMT,5,3.992375,3
+Frank Ocean,Sonder,0.797196,Frank Ocean,5,3.98598,0
+Thundercat,Steve Lacy,0.795013,Thundercat,5,3.975065,3
+Mac Miller,Logic,0.793604,Mac Miller,5,3.96802,1
+Fairuz,Melhem Barakat,0.660985,Fairuz,6,3.96591,5
+The Weeknd,Majid Jordan,0.66092,The Weeknd,6,3.96552,0
+The Voidz,"Albert Hammond, Jr.",0.65871,The Voidz,6,3.95226,4
+MGMT,The Flaming Lips,0.790327,MGMT,5,3.951635,3
+Drake,DJ Khaled,0.657829,Drake,6,3.946974,1
+Baby Keem,J. Cole,0.785232,Baby Keem,5,3.92616,1
+The Symposium,The Red Pears,0.782108,The Symposium,5,3.91054,2
+Fairuz,Oum Kalthoum,0.651361,Fairuz,6,3.908166,5
+J. Cole,Joey Bada$$,0.779171,J. Cole,5,3.895855,1
+Vacations,Vansire,0.775528,Vacations,5,3.87764,2
+MGMT,LCD Soundsystem,0.769544,MGMT,5,3.84772,3
+Mac DeMarco,Good Morning,0.769456,Mac DeMarco,5,3.84728,2
+Muse,Radiohead,0.641185,Muse,6,3.84711,4
+Baby Keem,Isaiah Rashad,0.765362,Baby Keem,5,3.82681,1
+Thundercat,The Internet,0.763476,Thundercat,5,3.81738,3
+Travis Scott,A$AP Rocky,0.635192,Travis Scott,6,3.811152,1
+Frank Ocean,Steve Lacy,0.758769,Frank Ocean,5,3.793845,0
+Joji,Frank Ocean,0.632188,Joji,6,3.793128,0
+Hotel Ugly,Zach Templar,0.756591,Hotel Ugly,5,3.782955,2
+Kali Uchis,Omar Apollo,0.628953,Kali Uchis,6,3.773718,0
+Frank Ocean,"Tyler, The Creator",0.751364,Frank Ocean,5,3.75682,0
+Mac DeMarco,HOMESHAKE,0.750712,Mac DeMarco,5,3.75356,2
+Joji,keshi,0.623878,Joji,6,3.743268000000001,0
+Travis Scott,Playboi Carti,0.62377,Travis Scott,6,3.742620000000001,1
+Thundercat,Hiatus Kaiyote,0.747201,Thundercat,5,3.736005,3
+Fairuz,Nancy Ajram,0.62253,Fairuz,6,3.73518,5
+Fairuz,عمر دياب,0.621176,Fairuz,6,3.727056,5
+Kali Uchis,Solange,0.618651,Kali Uchis,6,3.711906,0
+Fairuz,Georgette Sayegh,0.618255,Fairuz,6,3.70953,5
+Joji,d4vd,0.617151,Joji,6,3.702906,0
+A$AP Rocky,Travi$ Scott,0.739851,A$AP Rocky,5,3.699255,1
+The Symposium,Sea of Lettuce,0.739029,The Symposium,5,3.695145,2
+Mac Miller,Chance the Rapper,0.73791,Mac Miller,5,3.68955,1
+Baby Keem,Vince Staples,0.734874,Baby Keem,5,3.67437,1
+Tame Impala,Temples,0.611821,Tame Impala,6,3.670926,5
+Hotel Ugly,VACATIONS,0.733248,Hotel Ugly,5,3.66624,2
+Metro Boomin,Offset,0.732983,Metro Boomin,5,3.664915,1
+MGMT,Animal Collective,0.731136,MGMT,5,3.65568,3
+Beach House,Melody's Echo Chamber,0.728851,Beach House,5,3.644255,2
+Hotel Ugly,Ralph Castelli,0.728757,Hotel Ugly,5,3.643785,2
+JPEGMAFIA,JPEGMAFIA & Danny Brown,0.7271,JPEGMAFIA,5,3.6355,1
+J. Cole,Cordae,0.726859,J. Cole,5,3.634295,1
+Temples,Moses Gunn Collective,0.604232,Temples,6,3.625392,5
+Mac Miller,J. Cole,0.723165,Mac Miller,5,3.615825,1
+Travis Scott,Sheck Wes,0.599405,Travis Scott,6,3.59643,1
+MGMT,Tame Impala,0.715553,MGMT,5,3.577765,3
+Travis Scott,Future,0.595947,Travis Scott,6,3.575682,1
+Joji,Malcolm Todd,0.595929,Joji,6,3.5755740000000005,0
+J. Cole,Baby Keem,0.714008,J. Cole,5,3.57004,1
+Mac DeMarco,King Krule,0.709752,Mac DeMarco,5,3.54876,2
+Mac DeMarco,Eyedress,0.704585,Mac DeMarco,5,3.522925,2
+MGMT,Vampire Weekend,0.702501,MGMT,5,3.512505,3
+Justice,Busy P,0.702255,Justice,5,3.511275,3
+The Weeknd,Frank Ocean,0.584346,The Weeknd,6,3.506076,0
+MGMT,Foxygen,0.699763,MGMT,5,3.498815,3
+Billie Eilish,Olivia Rodrigo,0.582834,Billie Eilish,6,3.497004,5
+The Weeknd,Bruno Mars,0.581382,The Weeknd,6,3.4882919999999995,0
+Thundercat,Flea,0.696966,Thundercat,5,3.48483,3
+Pink Floyd,Syd Barrett,0.696697,Pink Floyd,5,3.483485,5
+Mac Miller,JID,0.696142,Mac Miller,5,3.48071,1
+Mac Miller,A$AP Rocky,0.695175,Mac Miller,5,3.475875,1
+Radiohead,Atoms for Peace,0.579237,Radiohead,6,3.475422,4
+Strawberry Guy,"Dream, Ivory",0.690739,Strawberry Guy,5,3.453695,2
+Kanye West,The Throne,0.575261,Kanye West,6,3.451566,1
+Temples,GUM,0.574198,Temples,6,3.445188,5
+Mac Miller,88-Keys,0.687624,Mac Miller,5,3.43812,1
+Kali Uchis,Summer Walker,0.568815,Kali Uchis,6,3.41289,0
+Thundercat,NxWorries,0.682542,Thundercat,5,3.41271,3
+Parcels,The Whitest Boy Alive,0.682112,Parcels,5,3.4105600000000003,2
+El Shab Arab,Ahmed Fakroun,0.681593,El Shab Arab,5,3.407965,5
+The Weeknd,Brent Faiyaz,0.567766,The Weeknd,6,3.406596,0
+Childish Gambino,Chance the Rapper,0.680928,Childish Gambino,5,3.40464,1
+Travis Scott,Kanye West,0.56611,Travis Scott,6,3.39666,1
+Baby Keem,JID,0.677063,Baby Keem,5,3.385315,1
+Childish Gambino,Mac Miller,0.676708,Childish Gambino,5,3.38354,1
+Parcels,Leisure,0.676084,Parcels,5,3.38042,2
+طارق العربي طرقان,Rap AR Anime,0.562739,طارق العربي طرقان,6,3.376434,5
+Strawberry Guy,Oscar Lang,0.675185,Strawberry Guy,5,3.375925,2
+Men I Trust,MUNYA,0.674554,Men I Trust,5,3.37277,2
+Thundercat,Free Nationals,0.673077,Thundercat,5,3.3653850000000003,3
+21 Savage,Offset,0.667397,21 Savage,5,3.3369850000000003,1
+Muse,Franz Ferdinand,0.555378,Muse,6,3.332268,4
+Drake,Drake & Future,0.554442,Drake,6,3.326652,1
+21 Savage,Future,0.665081,21 Savage,5,3.325405,1
+Men I Trust,Moon Panda,0.664683,Men I Trust,5,3.323415,2
+Beach House,Wild Nothing,0.664072,Beach House,5,3.32036,2
+Kali Uchis,Amaarae,0.553138,Kali Uchis,6,3.318828,0
+The Symposium,The Slaps,0.660809,The Symposium,5,3.304045,2
+Kali Uchis,Ley Soul,0.550381,Kali Uchis,6,3.302286,0
+Justice,Daft Punk,0.659794,Justice,5,3.29897,3
+Strawberry Guy,Current Joys,0.659774,Strawberry Guy,5,3.29887,2
+Joji,Daniel Caesar,0.549764,Joji,6,3.298584,0
+Vacations,No Vacation,0.659514,Vacations,5,3.2975700000000003,2
+The Weeknd,Givēon,0.547507,The Weeknd,6,3.285042,0
+The Symposium,The Strokes,0.653403,The Symposium,5,3.267015,2
+J. Cole,Lute,0.653356,J. Cole,5,3.26678,1
+Pink Floyd,King Crimson,0.651211,Pink Floyd,5,3.256055,5
+Kali Uchis,Ravyn Lenae,0.541984,Kali Uchis,6,3.251904,0
+A$AP Rocky,Denzel Curry,0.646703,A$AP Rocky,5,3.233515,1
+Daft Punk,Stardust,0.538756,Daft Punk,6,3.232536,3
+21 Savage,Travi$ Scott,0.641598,21 Savage,5,3.20799,1
+Vacations,Current Joys,0.640888,Vacations,5,3.20444,2
+Kali Uchis,Chloe x Halle,0.532498,Kali Uchis,6,3.1949880000000004,0
+Mac DeMarco,Her's,0.638488,Mac DeMarco,5,3.1924400000000004,2
+SZA,Doja Cat,0.637422,SZA,5,3.18711,0
+Baby Keem,Kenny Mason,0.632667,Baby Keem,5,3.163335,1
+JPEGMAFIA,Danny Brown,0.632061,JPEGMAFIA,5,3.160305,1
+Beach House,Cemeteries,0.631209,Beach House,5,3.156045,2
+Mac DeMarco,Yot Club,0.630318,Mac DeMarco,5,3.15159,2
+Frank Ocean,SZA,0.628599,Frank Ocean,5,3.142995,0
+Men I Trust,Crumb,0.628261,Men I Trust,5,3.141305,2
+Baby Keem,Denzel Curry,0.62808,Baby Keem,5,3.1404,1
+MGMT,Phoenix,0.62806,MGMT,5,3.1403,3
+"Tyler, The Creator",Kendrick Lamar,0.521877,"Tyler, The Creator",6,3.1312620000000004,1
+"Tyler, The Creator",Childish Gambino,0.520654,"Tyler, The Creator",6,3.123924,1
+Daft Punk,Thomas Bangalter,0.519172,Daft Punk,6,3.115032,3
+Playboi Carti,Lil Uzi Vert,0.619764,Playboi Carti,5,3.09882,1
+Billie Eilish,Melanie Martinez,0.515955,Billie Eilish,6,3.0957300000000005,5
+Vacations,Harmless,0.607461,Vacations,5,3.037305,2
+SZA,Kali Uchis,0.60686,SZA,5,3.0343,0
+"Tyler, The Creator",Domo Genesis,0.505701,"Tyler, The Creator",6,3.034206,1
+Justice,Gesaffelstein,0.605072,Justice,5,3.02536,3
+21 Savage,21 Savage & Metro Boomin,0.604884,21 Savage,5,3.02442,1
+Justice,Mr. Oizo,0.603485,Justice,5,3.017425,3
+J. Cole,Drake,0.603475,J. Cole,5,3.017375,1
+Beach House,Cocteau Twins,0.603237,Beach House,5,3.016185,2
+Michel Berger,Daniel Balavoine,1.0,Michel Berger,3,3.0,5
+Omar Khairat,Ali El Haggar,1.0,Omar Khairat,3,3.0,5
+Nirvana,Kurt Cobain,1.0,Nirvana,3,3.0,4
+Anyma,ARTBAT,1.0,Anyma,3,3.0,3
+Vacations,"Dream, Ivory",0.59965,Vacations,5,2.99825,2
+Childish Gambino,Kid Cudi,0.599172,Childish Gambino,5,2.9958600000000004,1
+J. Cole,A$AP Rocky,0.598835,J. Cole,5,2.9941750000000003,1
+Beach House,Henry Krieger,0.598323,Beach House,5,2.9916150000000004,2
+Kali Uchis,Raveena,0.498491,Kali Uchis,6,2.990946,0
+Temples,Tame Impala,0.497583,Temples,6,2.985498,5
+Beach House,Mazzy Star,0.596616,Beach House,5,2.98308,2
+Balu Brigada,Almost Monday,0.595423,Balu Brigada,5,2.9771150000000004,2
+A$AP Rocky,Kanye West,0.592288,A$AP Rocky,5,2.96144,1
+Drake,Tory Lanez,0.491242,Drake,6,2.947452,1
+Metro Boomin,Huncho Jack,0.589074,Metro Boomin,5,2.94537,1
+Baby Keem,Lil Yachty,0.588858,Baby Keem,5,2.94429,1
+Joji,Bruno Mars,0.490475,Joji,6,2.94285,0
+alan vuong,Tona Glover,0.588051,alan vuong,5,2.940255,0
+Beach House,Japanese Breakfast,0.587256,Beach House,5,2.93628,2
+Frank Ocean,Kanye West,0.587208,Frank Ocean,5,2.93604,0
+Temples,Psychedelic Porn Crumpets,0.487037,Temples,6,2.922222,5
+Muse,30 Seconds to Mars,0.486864,Muse,6,2.921184,4
+The Neighbourhood,Beach Weather,0.48339,The Neighbourhood,6,2.90034,2
+Kanye West,Ty Dolla $ign,0.483096,Kanye West,6,2.8985760000000003,1
+Beach House,The Radio Dept.,0.578361,Beach House,5,2.891805,2
+A$AP Rocky,Isaiah Rashad,0.578089,A$AP Rocky,5,2.890445,1
+Metro Boomin,Future,0.576623,Metro Boomin,5,2.883115,1
+Drake,Future,0.480244,Drake,6,2.881464,1
+Vacations,Her's,0.575709,Vacations,5,2.878545,2
+Childish Gambino,OFWGKTA,0.575402,Childish Gambino,5,2.87701,1
+Steve Lacy,Matt Martians,0.574953,Steve Lacy,5,2.874765,5
+Pierce The Veil,My Chemical Romance,0.478951,Pierce The Veil,6,2.8737060000000003,5
+A$AP Rocky,J. Cole,0.574585,A$AP Rocky,5,2.872925,1
+21 Savage,Lil Baby,0.572723,21 Savage,5,2.863615,1
+"Tyler, The Creator",MellowHype,0.476687,"Tyler, The Creator",6,2.860122,1
+Vacations,Mind’s Eye,0.571724,Vacations,5,2.85862,2
+Temples,Unknown Mortal Orchestra,0.475923,Temples,6,2.855538,5
+Joji,Don Toliver,0.474896,Joji,6,2.849376,0
+Men I Trust,The Marías,0.569213,Men I Trust,5,2.846065,2
+Muse,Foo Fighters,0.473307,Muse,6,2.839842,4
+A$AP Rocky,ScHoolboy Q,0.567837,A$AP Rocky,5,2.839185,1
+21 Savage,Quavo,0.56577,21 Savage,5,2.82885,1
+Chezile,grentperez,0.565665,Chezile,5,2.828325,5
+Pierce The Veil,Picture Me Broken,0.470647,Pierce The Veil,6,2.823882,5
+Childish Gambino,Vince Staples,0.563411,Childish Gambino,5,2.817055,1
+Muse,Coldplay,0.468346,Muse,6,2.810076,4
+A$AP Rocky,Joey Bada$$,0.561754,A$AP Rocky,5,2.80877,1
+SZA,Victoria Monét,0.560911,SZA,5,2.804555,0
+Temples,Django Django,0.466372,Temples,6,2.798232,5
+Strawberry Guy,saturra,0.557799,Strawberry Guy,5,2.7889950000000003,2
+Arctic Monkeys,Alex Turner,0.556984,Arctic Monkeys,5,2.78492,4
+A$AP Rocky,Pusha T,0.554152,A$AP Rocky,5,2.77076,1
+Muse,Feeder,0.4605,Muse,6,2.763,4
+SZA,Jhené Aiko,0.552497,SZA,5,2.762485,0
+Gorillaz,MGMT,0.460027,Gorillaz,6,2.760162,3
+Omar Khairat,Wust El Balad,0.917242,Omar Khairat,3,2.751726,5
+Frank Ocean,Sampha,0.546754,Frank Ocean,5,2.73377,0
+Drake,Bryson Tiller,0.454652,Drake,6,2.727912,1
+Temples,The Holydrug Couple,0.454602,Temples,6,2.727612,5
+Muse,The Killers,0.454595,Muse,6,2.72757,4
+21 Savage,Young Stoner Life,0.54515,21 Savage,5,2.72575,1
+Strawberry Guy,Harmless,0.544244,Strawberry Guy,5,2.72122,2
+Vacations,Los Retros,0.543998,Vacations,5,2.71999,2
+Pierce The Veil,Get Scared,0.452762,Pierce The Veil,6,2.716572,5
+Childish Gambino,BROCKHAMPTON,0.543147,Childish Gambino,5,2.7157350000000005,1
+Playboi Carti,Homixide Gang,0.5417,Playboi Carti,5,2.7085,1
+Michel Berger,France Gall,0.902129,Michel Berger,3,2.706387,5
+Playboi Carti,OsamaSon,0.539628,Playboi Carti,5,2.69814,1
+Childish Gambino,Kendrick Lamar,0.538293,Childish Gambino,5,2.691465,1
+Metro Boomin,Don Toliver,0.536012,Metro Boomin,5,2.68006,1
+"Tyler, The Creator",Casey Veggies,0.444761,"Tyler, The Creator",6,2.668566,1
+Childish Gambino,A$AP Rocky,0.533332,Childish Gambino,5,2.6666600000000003,1
+Temples,Jacco Gardner,0.442623,Temples,6,2.655738,5
+Justice,Breakbot,0.530479,Justice,5,2.6523950000000003,3
+Childish Gambino,Aminé,0.529915,Childish Gambino,5,2.649575,1
+Chezile,Andrew Garden,0.527674,Chezile,5,2.63837,5
+Frank Ocean,Solange,0.525788,Frank Ocean,5,2.62894,0
+21 Savage,Migos,0.525225,21 Savage,5,2.626125,1
+Temples,The Lazy Eyes,0.435821,Temples,6,2.614926,5
+Drake,J. Cole,0.434852,Drake,6,2.609112,1
+Drake,Lil Baby,0.434772,Drake,6,2.608632,1
+The Strokes,Arctic Monkeys,0.434663,The Strokes,6,2.607978,4
+SZA,Mariah the Scientist,0.520795,SZA,5,2.603975,0
+Frank Ocean,PARTYNEXTDOOR,0.520283,Frank Ocean,5,2.6014150000000003,0
+21 Savage,Gunna,0.520144,21 Savage,5,2.6007200000000004,1
+Drake,Don Toliver,0.433288,Drake,6,2.599728,1
+Drake,Gunna,0.433061,Drake,6,2.598366,1
+"Tyler, The Creator",Earl Sweatshirt,0.431415,"Tyler, The Creator",6,2.58849,1
+Daft Punk,Kavinsky,0.42966,Daft Punk,6,2.57796,3
+Yeat,Ken Carson,0.513805,Yeat,5,2.569025,1
+Tame Impala,Moses Gunn Collective,0.427959,Tame Impala,6,2.567754,5
+Michel Berger,Alain Souchon,0.854216,Michel Berger,3,2.562648,5
+Tame Impala,The Holydrug Couple,0.426486,Tame Impala,6,2.558916,5
+Kanye West,DONDA,0.426388,Kanye West,6,2.558328,1
+JPEGMAFIA,Injury Reserve,0.510041,JPEGMAFIA,5,2.550205,1
+Metro Boomin,EI8HT,0.509397,Metro Boomin,5,2.546985,1
+SZA,Ravyn Lenae,0.508924,SZA,5,2.54462,0
+Pink Floyd,Led Zeppelin,0.508652,Pink Floyd,5,2.54326,5
+Strawberry Guy,Bubble Tea and Cigarettes,0.507701,Strawberry Guy,5,2.538505,2
+Tame Impala,Unknown Mortal Orchestra,0.422365,Tame Impala,6,2.53419,5
+Kanye West,Travi$ Scott,0.422067,Kanye West,6,2.5324020000000003,1
+Justice,Digitalism,0.502828,Justice,5,2.5141400000000003,3
+Khaled,Raïna Raï,0.502765,Khaled,5,2.513825,5
+Steve Lacy,Brent Faiyaz,0.500227,Steve Lacy,5,2.501135,5
+Metro Boomin,Young Stoner Life,0.498523,Metro Boomin,5,2.492615,1
+Strawberry Guy,Salvia Palth,0.498246,Strawberry Guy,5,2.4912300000000003,2
+TV Girl,Eyedress,0.414778,TV Girl,6,2.488668,2
+Strawberry Guy,Yot Club,0.495524,Strawberry Guy,5,2.47762,2
+Anyma,Kevin De Vries,0.825869,Anyma,3,2.477607,3
+Strawberry Guy,Cigarettes After Sex,0.494675,Strawberry Guy,5,2.473375,2
+JPEGMAFIA,"JPEGMAFIA, Danny Brown",0.494178,JPEGMAFIA,5,2.47089,1
+Justice,Kavinsky,0.493351,Justice,5,2.466755,3
+Balu Brigada,Royel Otis,0.493019,Balu Brigada,5,2.465095,2
+Metro Boomin,Quavo,0.490018,Metro Boomin,5,2.45009,1
+JPEGMAFIA,Death Grips,0.489824,JPEGMAFIA,5,2.44912,1
+Daft Punk,Cassius,0.407694,Daft Punk,6,2.446164,3
+Billie Eilish,Lana Del Rey,0.406427,Billie Eilish,6,2.438562,5
+alan vuong,Joji,0.487522,alan vuong,5,2.4376100000000003,0
+SZA,Doechii,0.487508,SZA,5,2.43754,0
+SZA,Kehlani,0.486704,SZA,5,2.43352,0
+"Tyler, The Creator",Mike G,0.404578,"Tyler, The Creator",6,2.427468,1
+Tame Impala,MGMT,0.403438,Tame Impala,6,2.420628,5
+Khaled,Rachid Taha,0.481603,Khaled,5,2.408015,5
+TV Girl,Mac DeMarco,0.401187,TV Girl,6,2.407122,2
+Steve Lacy,Frank Ocean,0.481215,Steve Lacy,5,2.406075,5
+Chezile,rei brown,0.480755,Chezile,5,2.403775,5
+Billie Eilish,Ariana Grande,0.399799,Billie Eilish,6,2.398794,5
+SZA,Beyoncé,0.476605,SZA,5,2.383025,0
+alan vuong,Chase Shakur,0.475977,alan vuong,5,2.379885,0
+Omar Khairat,Loai,0.789573,Omar Khairat,3,2.368719,5
+Parcels,Papooz,0.472608,Parcels,5,2.36304,2
+TV Girl,Roar,0.393528,TV Girl,6,2.361168,2
+Michel Berger,Jean-Jacques Goldman,0.786425,Michel Berger,3,2.359275,5
+Kanye West,Kendrick Lamar,0.391677,Kanye West,6,2.350062,1
+Justice,Alan Braxe & Fred Falke,0.468945,Justice,5,2.344725,3
+Tame Impala,Post Animal,0.381352,Tame Impala,6,2.288112,5
+Cuco,boy pablo,0.456702,Cuco,5,2.28351,2
+Michel Berger,Véronique Sanson,0.759184,Michel Berger,3,2.277552,5
+Kanye West,A$AP Rocky,0.379118,Kanye West,6,2.274708,1
+alan vuong,Greek,0.454687,alan vuong,5,2.273435,0
+Pink Floyd,The Doors,0.454423,Pink Floyd,5,2.2721150000000003,5
+Chezile,David Kushner,0.454,Chezile,5,2.27,5
+Justice,Cassius,0.453546,Justice,5,2.26773,3
+Parcels,Zimmer90,0.448994,Parcels,5,2.24497,2
+Michel Berger,Francis Cabrel,0.746047,Michel Berger,3,2.238141,5
+Chezile,SYML,0.447593,Chezile,5,2.237965,5
+Michel Berger,Eddy Mitchell,0.74284,Michel Berger,3,2.22852,5
+Michel Berger,Julien Clerc,0.739074,Michel Berger,3,2.217222,5
+Billie Eilish,Gracie Abrams,0.36922,Billie Eilish,6,2.21532,5
+Gorillaz,Radiohead,0.369201,Gorillaz,6,2.215206,3
+Parcels,Miami Horror,0.44152,Parcels,5,2.2076,2
+Michel Berger,Johnny Hallyday,0.734319,Michel Berger,3,2.202957,5
+Pierce The Veil,Chiodos,0.366937,Pierce The Veil,6,2.201622,5
+Omar Khairat,Amr Mostafa,0.733083,Omar Khairat,3,2.199249,5
+Michel Berger,Laurent Voulzy,0.729008,Michel Berger,3,2.187024,5
+Akhras,Siilawy,0.437009,Akhras,5,2.185045,5
+Hotel Ugly,54 Ultra,0.436841,Hotel Ugly,5,2.184205,2
+Parcels,Kraak & Smaak,0.43628,Parcels,5,2.1814,2
+Chezile,The Neighbourhood,0.435361,Chezile,5,2.176805,5
+Men I Trust,No Vacation,0.434803,Men I Trust,5,2.174015,2
+Pink Floyd,"Emerson, Lake & Palmer",0.434181,Pink Floyd,5,2.170905,5
+TV Girl,Current Joys,0.3606,TV Girl,6,2.1636,2
+Billie Eilish,Conan Gray,0.360138,Billie Eilish,6,2.160828,5
+JPEGMAFIA,Denzel Curry,0.430073,JPEGMAFIA,5,2.150365,1
+"Tyler, The Creator",Pharrell Williams,0.356652,"Tyler, The Creator",6,2.1399120000000003,1
+Arctic Monkeys,Miles Kane,0.426608,Arctic Monkeys,5,2.13304,4
+Parcels,Electric Guest,0.42658,Parcels,5,2.1329,2
+Brent Faiyaz,Avenoir,0.426385,Brent Faiyaz,5,2.131925,0
+Yeat,"Yeat, Lil Uzi Vert",0.425469,Yeat,5,2.127345,1
+Daft Punk,Sebastian,0.353044,Daft Punk,6,2.118264,3
+Radiohead,Jeff Buckley,0.352635,Radiohead,6,2.11581,4
+TV Girl,VACATIONS,0.352604,TV Girl,6,2.115624,2
+Omar Khairat,Aida Al Ayoubi,0.703072,Omar Khairat,3,2.109216,5
+Chezile,sombr,0.421085,Chezile,5,2.105425,5
+Playboi Carti,Young Thug,0.419084,Playboi Carti,5,2.09542,1
+Kanye West,Consequence,0.348858,Kanye West,6,2.093148,1
+Playboi Carti,Travi$ Scott,0.418235,Playboi Carti,5,2.091175,1
+Playboi Carti,Che,0.41696,Playboi Carti,5,2.0848,1
+Billie Eilish,Tate McRae,0.346796,Billie Eilish,6,2.080776,5
+Pink Floyd,Genesis,0.413715,Pink Floyd,5,2.068575,5
+Chezile,Michael Seyer,0.411721,Chezile,5,2.058605,5
+Anyma,Agents Of Time,0.685054,Anyma,3,2.055162,3
+Arctic Monkeys,Miles Kane and the Death Ramps,0.408158,Arctic Monkeys,5,2.0407900000000003,4
+Brent Faiyaz,Bryson Tiller,0.40782,Brent Faiyaz,5,2.0391,0
+Men I Trust,Tennis,0.407177,Men I Trust,5,2.035885,2
+Billie Eilish,Lorde,0.33845,Billie Eilish,6,2.0307,5
+Playboi Carti,ApolloRed1,0.404273,Playboi Carti,5,2.021365,1
+Playboi Carti,Nine Vicious,0.403342,Playboi Carti,5,2.01671,1
+Daft Punk,Gesaffelstein,0.335448,Daft Punk,6,2.0126880000000003,3
+Pink Floyd,Dire Straits,0.401005,Pink Floyd,5,2.005025,5
+Love Spells,DyE,1.0,Love Spells,2,2.0,3
+Nothing But Thieves,Man-Made Sunshine,1.0,Nothing But Thieves,2,2.0,4
+Phoenix,Two Door Cinema Club,1.0,Phoenix,2,2.0,2
+Pink Floyd,The Alan Parsons Project,0.399773,Pink Floyd,5,1.998865,5
+Phoenix,Vampire Weekend,0.996542,Phoenix,2,1.993084,2
+Akhras,Nedaa Shrara,0.395918,Akhras,5,1.97959,5
+"Tyler, The Creator",Kanye West,0.329613,"Tyler, The Creator",6,1.977678,1
+Men I Trust,Vansire,0.395498,Men I Trust,5,1.97749,2
+Billie Eilish,Chappell Roan,0.329362,Billie Eilish,6,1.976172,5
+Radiohead,Muse,0.32929,Radiohead,6,1.97574,4
+Tame Impala,Psychedelic Porn Crumpets,0.329288,Tame Impala,6,1.975728,5
+The Strokes,Benches,0.329276,The Strokes,6,1.975656,4
+Omar Khairat,Hossam Habib,0.65366,Omar Khairat,3,1.96098,5
+Men I Trust,Night Tapes,0.392026,Men I Trust,5,1.96013,2
+TV Girl,Cults,0.325076,TV Girl,6,1.950456,2
+Khaled,Faudel,0.386916,Khaled,5,1.93458,5
+TV Girl,Alex G,0.320416,TV Girl,6,1.922496,2
+Yeat,Ian,0.384161,Yeat,5,1.920805,1
+alan vuong,Zeke Bleu,0.383314,alan vuong,5,1.91657,0
+JPEGMAFIA,Ghais Guevara,0.381928,JPEGMAFIA,5,1.90964,1
+JPEGMAFIA,"JPEGMAFIA, Denzel Curry",0.380414,JPEGMAFIA,5,1.90207,1
+Gorillaz,Foster the People,0.316394,Gorillaz,6,1.898364,3
+Arctic Monkeys,The Strokes,0.378189,Arctic Monkeys,5,1.890945,4
+Omar Khairat,Khaled Selim,0.624446,Omar Khairat,3,1.873338,5
+Omar Khairat,Wama,0.62406,Omar Khairat,3,1.87218,5
+Balu Brigada,Little Image,0.373945,Balu Brigada,5,1.869725,2
+Yeat,Destroy Lonely,0.371738,Yeat,5,1.85869,1
+alan vuong,Bryant Barnes,0.367696,alan vuong,5,1.83848,0
+alan vuong,Karri,0.367595,alan vuong,5,1.837975,0
+The Strokes,The Symposium,0.306306,The Strokes,6,1.837836,4
+Love Spells,Blood Orange,0.916886,Love Spells,2,1.833772,3
+Phoenix,Passion Pit,0.916284,Phoenix,2,1.832568,2
+The Neighbourhood,Arctic Monkeys,0.303815,The Neighbourhood,6,1.82289,2
+Daft Punk,Breakbot,0.302048,Daft Punk,6,1.812288,3
+Malcolm Todd,Zach Templar,0.360691,Malcolm Todd,5,1.803455,5
+Omar Khairat,Medhat Saleh,0.598721,Omar Khairat,3,1.796163,5
+Yeat,Kankan,0.356302,Yeat,5,1.78151,1
+Yeat,Rich Amiri,0.352293,Yeat,5,1.761465,1
+Balu Brigada,Good Neighbours,0.352198,Balu Brigada,5,1.76099,2
+El Shab Arab,Ibrahim Hesnawi,0.352131,El Shab Arab,5,1.760655,5
+The Neighbourhood,Jaymes Young,0.29277,The Neighbourhood,6,1.7566199999999998,2
+The Neighbourhood,sombr,0.292612,The Neighbourhood,6,1.755672,2
+Akhras,AL SHAMI,0.35086,Akhras,5,1.7543,5
+Hotel Ugly,crisaunt,0.349952,Hotel Ugly,5,1.74976,2
+Daft Punk,The Chemical Brothers,0.288036,Daft Punk,6,1.7282160000000002,3
+Phoenix,Foster the People,0.859603,Phoenix,2,1.719206,2
+Brent Faiyaz,Paperboy Fabe,0.343077,Brent Faiyaz,5,1.7153850000000002,0
+Steve Lacy,Daniel Caesar,0.342753,Steve Lacy,5,1.713765,5
+The Marías,Clairo,0.341803,The Marías,5,1.7090150000000002,2
+TV Girl,juju<3,0.283608,TV Girl,6,1.701648,2
+Radiohead,The Strokes,0.283576,Radiohead,6,1.701456,4
+Akhras,Bigsam,0.337099,Akhras,5,1.685495,5
+Omar Khairat,Amr Ismail,0.55894,Omar Khairat,3,1.67682,5
+Pierce The Veil,Alesana,0.279313,Pierce The Veil,6,1.675878,5
+Hotel Ugly,juju<3,0.335085,Hotel Ugly,5,1.6754250000000002,2
+TV Girl,Yot Club,0.279055,TV Girl,6,1.67433,2
+JPEGMAFIA,Cities Aviv,0.334366,JPEGMAFIA,5,1.67183,1
+Yeat,BNYX®,0.333567,Yeat,5,1.667835,1
+Yeat,Lil Uzi Vert,0.332884,Yeat,5,1.66442,1
+Yeat,Homixide Gang,0.328958,Yeat,5,1.64479,1
+Gorillaz,The Strokes,0.273804,Gorillaz,6,1.642824,3
+Hotel Ugly,Feng Suave,0.326384,Hotel Ugly,5,1.63192,2
+Radiohead,Nirvana,0.270599,Radiohead,6,1.6235939999999998,4
+The Strokes,Interpol,0.26989,The Strokes,6,1.6193400000000002,4
+Pierce The Veil,Hail The Sun,0.269141,Pierce The Veil,6,1.614846,5
+Pierce The Veil,Escape The Fate,0.268854,Pierce The Veil,6,1.613124,5
+The Marías,Men I Trust,0.321855,The Marías,5,1.609275,2
+Steve Lacy,Sonder,0.320746,Steve Lacy,5,1.60373,5
+The Strokes,Cage the Elephant,0.265297,The Strokes,6,1.591782,4
+Gorillaz,LCD Soundsystem,0.264923,Gorillaz,6,1.589538,3
+Brent Faiyaz,PARTYNEXTDOOR,0.317149,Brent Faiyaz,5,1.5857450000000002,0
+Khaled,Cheikha Rimitti,0.316384,Khaled,5,1.58192,5
+Gorillaz,Twenty One Pilots,0.26141,Gorillaz,6,1.56846,3
+Radiohead,Philip Selway,0.259367,Radiohead,6,1.556202,4
+Brent Faiyaz,Daniel Caesar,0.309033,Brent Faiyaz,5,1.545165,0
+Akhras,Yazan Haifawi,0.307949,Akhras,5,1.539745,5
+Hotel Ugly,Kid Bloom,0.307046,Hotel Ugly,5,1.53523,2
+Gorillaz,Beck,0.255736,Gorillaz,6,1.5344160000000002,3
+Hotel Ugly,Wabie,0.306633,Hotel Ugly,5,1.533165,2
+The Neighbourhood,The 1975,0.254126,The Neighbourhood,6,1.524756,2
+طارق العربي طرقان,Spacepower,0.253635,طارق العربي طرقان,6,1.52181,5
+Balu Brigada,half•alive,0.303287,Balu Brigada,5,1.516435,2
+Radiohead,Weezer,0.25241,Radiohead,6,1.51446,4
+Radiohead,The Smiths,0.252055,Radiohead,6,1.51233,4
+The Strokes,The Last Shadow Puppets,0.250575,The Strokes,6,1.50345,4
+Balu Brigada,Coin,0.30004,Balu Brigada,5,1.5002,2
+Steve Lacy,Ravyn Lenae,0.298505,Steve Lacy,5,1.492525,5
+Gorillaz,Franz Ferdinand,0.245966,Gorillaz,6,1.475796,3
+Balu Brigada,Wallows,0.292472,Balu Brigada,5,1.46236,2
+Steve Lacy,Thundercat,0.292447,Steve Lacy,5,1.4622350000000002,5
+The Neighbourhood,Twenty One Pilots,0.243695,The Neighbourhood,6,1.46217,2
+Cuco,Strawberry Guy,0.29076,Cuco,5,1.4538000000000002,2
+Cuco,VACATIONS,0.288093,Cuco,5,1.440465,2
+The Neighbourhood,Wallows,0.238023,The Neighbourhood,6,1.428138,2
+Akhras,Hijazi,0.285295,Akhras,5,1.4264750000000002,5
+Malcolm Todd,grentperez,0.280072,Malcolm Todd,5,1.40036,5
+Malcolm Todd,Dominic Fike,0.276666,Malcolm Todd,5,1.3833300000000002,5
+The Marías,beabadoobee,0.275763,The Marías,5,1.378815,2
+Phoenix,Atlas Genius,0.689079,Phoenix,2,1.378158,2
+The Neighbourhood,The Technicolors,0.227279,The Neighbourhood,6,1.363674,2
+The Strokes,Little Joy,0.226804,The Strokes,6,1.360824,4
+Brent Faiyaz,Chase Shakur,0.272153,Brent Faiyaz,5,1.3607649999999998,0
+Phoenix,Grouplove,0.679658,Phoenix,2,1.359316,2
+Radiohead,Blur,0.22235,Radiohead,6,1.3340999999999998,4
+Phoenix,Starfucker,0.661131,Phoenix,2,1.322262,2
+Cuco,mellow fellow,0.264241,Cuco,5,1.321205,2
+Malcolm Todd,Meldrop,0.263994,Malcolm Todd,5,1.31997,5
+Akhras,Nassif Zeytoun,0.261843,Akhras,5,1.309215,5
+Cuco,The Marías,0.260662,Cuco,5,1.30331,2
+Steve Lacy,orion sun,0.260579,Steve Lacy,5,1.302895,5
+Steve Lacy,Fousheé,0.260037,Steve Lacy,5,1.300185,5
+Brent Faiyaz,Givēon,0.259411,Brent Faiyaz,5,1.297055,0
+Malcolm Todd,Javi Vera,0.258225,Malcolm Todd,5,1.291125,5
+Balu Brigada,Dayglow,0.254582,Balu Brigada,5,1.27291,2
+The Marías,Tokyo Tea Room,0.254527,The Marías,5,1.272635,2
+طارق العربي طرقان,Toyor Baby,0.211269,طارق العربي طرقان,6,1.267614,5
+Cuco,Her's,0.249785,Cuco,5,1.248925,2
+Phoenix,The Whitest Boy Alive,0.622202,Phoenix,2,1.244404,2
+Balu Brigada,Rec Hall,0.248201,Balu Brigada,5,1.241005,2
+Phoenix,Ra Ra Riot,0.619589,Phoenix,2,1.239178,2
+Arctic Monkeys,The Fratellis,0.246084,Arctic Monkeys,5,1.23042,4
+Love Spells,No Rome,0.607082,Love Spells,2,1.214164,3
+Akhras,Tariq Alfaqeh,0.242626,Akhras,5,1.21313,5
+The Neighbourhood,Balu Brigada,0.202144,The Neighbourhood,6,1.212864,2
+Phoenix,Friendly Fires,0.603704,Phoenix,2,1.207408,2
+Anyma,Loofy,0.400313,Anyma,3,1.200939,3
+طارق العربي طرقان,Moussiqa,0.199502,طارق العربي طرقان,6,1.197012,5
+Anyma,Colyn,0.395503,Anyma,3,1.186509,3
+Nirvana,The Jins,0.388122,Nirvana,3,1.164366,4
+Cuco,Banes World,0.231024,Cuco,5,1.15512,2
+Khaled,Babylone,0.228366,Khaled,5,1.14183,5
+The Marías,Strawberry Guy,0.228121,The Marías,5,1.140605,2
+The Marías,Shelly,0.22748,The Marías,5,1.1374,2
+Nirvana,Alice in Chains,0.374272,Nirvana,3,1.122816,4
+Malcolm Todd,natalie jinju,0.222454,Malcolm Todd,5,1.11227,5
+طارق العربي طرقان,Fadia,0.183633,طارق العربي طرقان,6,1.101798,5
+Nirvana,Mudhoney,0.364942,Nirvana,3,1.094826,4
+The Marías,54 Ultra,0.218509,The Marías,5,1.092545,2
+Malcolm Todd,F3miii,0.216588,Malcolm Todd,5,1.08294,5
+Khaled,Soolking,0.212142,Khaled,5,1.06071,5
+Nirvana,Soundgarden,0.351147,Nirvana,3,1.0534409999999998,4
+Brent Faiyaz,Frank Ocean,0.208116,Brent Faiyaz,5,1.04058,0
+Cuco,Vansire,0.207325,Cuco,5,1.036625,2
+Malcolm Todd,beabadoobee,0.204813,Malcolm Todd,5,1.024065,5
+Cuco,TEMPOREX,0.203364,Cuco,5,1.01682,2
+Brent Faiyaz,Miguel,0.202829,Brent Faiyaz,5,1.014145,0
+Arctic Monkeys,Catfish and the Bottlemen,0.202727,Arctic Monkeys,5,1.0136349999999998,4
+Nothing But Thieves,Royal Blood,0.506264,Nothing But Thieves,2,1.012528,4
+طارق العربي طرقان,Mawshahat Andalousyia,0.168752,طارق العربي طرقان,6,1.012512,5
+Arctic Monkeys,Cage the Elephant,0.198995,Arctic Monkeys,5,0.994975,4
+طارق العربي طرقان,عزالدين الشويخ,0.16542,طارق العربي طرقان,6,0.99252,5
+Arctic Monkeys,Mini Mansions,0.198411,Arctic Monkeys,5,0.992055,4
+Love Spells,Bubble Tea and Cigarettes,0.49044,Love Spells,2,0.98088,3
+Malcolm Todd,LAUNDRY DAY,0.19613,Malcolm Todd,5,0.98065,5
+Love Spells,Minova,0.487873,Love Spells,2,0.975746,3
+Khaled,Fairuz,0.193085,Khaled,5,0.965425,5
+The Marías,Bubble Tea and Cigarettes,0.19071,The Marías,5,0.95355,2
+Arctic Monkeys,Alexandra Savior,0.188258,Arctic Monkeys,5,0.94129,4
+The Marías,Cuco,0.185803,The Marías,5,0.929015,2
+Khaled,Souad Massi,0.183418,Khaled,5,0.91709,5
+Nirvana,Meat Puppets,0.30512,Nirvana,3,0.91536,4
+Nirvana,Hole,0.297125,Nirvana,3,0.8913749999999999,4
+Nirvana,Stone Temple Pilots,0.285498,Nirvana,3,0.8564939999999999,4
+Anyma,Silver Panda,0.284793,Anyma,3,0.854379,3
+Anyma,Armin van Buuren,0.267854,Anyma,3,0.8035619999999999,3
+Anyma,Tiësto,0.265875,Anyma,3,0.7976249999999999,3
+The Voidz,Inner Wave,0.130233,The Voidz,6,0.7813979999999999,4
+Nothing But Thieves,Friday Pilots Club,0.378549,Nothing But Thieves,2,0.757098,4
+Nothing But Thieves,Himalayas,0.377555,Nothing But Thieves,2,0.75511,4
+The Voidz,Interpol,0.124174,The Voidz,6,0.745044,4
+Nothing But Thieves,Airways,0.362787,Nothing But Thieves,2,0.725574,4
+Love Spells,Morning Silk,0.360514,Love Spells,2,0.721028,3
+Nirvana,Green River,0.238638,Nirvana,3,0.7159139999999999,4
+Nirvana,Mad Season,0.238203,Nirvana,3,0.714609,4
+Love Spells,Them & I,0.356741,Love Spells,2,0.713482,3
+Anyma,Kölsch,0.224149,Anyma,3,0.672447,3
+Love Spells,Tokyo Tea Room,0.332114,Love Spells,2,0.664228,3
+The Voidz,Arctic Monkeys,0.109269,The Voidz,6,0.655614,4
+Anyma,Amelie Lens,0.215484,Anyma,3,0.646452,3
+Nothing But Thieves,The Amazons,0.318967,Nothing But Thieves,2,0.637934,4
+Nothing But Thieves,The Technicolors,0.31716,Nothing But Thieves,2,0.63432,4
+Love Spells,Henry Morris,0.314118,Love Spells,2,0.628236,3
+The Voidz,Cage the Elephant,0.103349,The Voidz,6,0.6200939999999999,4
+The Voidz,Pond,0.102468,The Voidz,6,0.614808,4
+Love Spells,Chezile,0.304237,Love Spells,2,0.608474,3
+The Voidz,Tame Impala,0.096799,The Voidz,6,0.580794,4
+Nothing But Thieves,Des Rocs,0.273756,Nothing But Thieves,2,0.547512,4
+Nothing But Thieves,YONAKA,0.272694,Nothing But Thieves,2,0.545388,4
+Nothing But Thieves,Betcha,0.269775,Nothing But Thieves,2,0.53955,4
+The Voidz,Vampire Weekend,0.088094,The Voidz,6,0.528564,4
+El Shab Arab,Khaled Al Reigh,0.093933,El Shab Arab,5,0.469665,5
+El Shab Arab,Ouiness,0.04987,El Shab Arab,5,0.24935,5
+El Shab Arab,Elias Rahbani,0.04053,El Shab Arab,5,0.20265,5
+El Shab Arab,Cheb Bakr,0.03963,El Shab Arab,5,0.19815,5
+El Shab Arab,Ahmed Malek,0.034953,El Shab Arab,5,0.174765,5

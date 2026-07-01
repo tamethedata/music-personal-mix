@@ -1,0 +1,691 @@
+artiste_source,artiste_similaire,score
+The Strokes,The Voidz,1.0
+The Strokes,Julian Casablancas,0.940326
+The Strokes,"Albert Hammond, Jr.",0.711122
+The Strokes,Arctic Monkeys,0.434663
+The Strokes,Benches,0.329276
+The Strokes,The Symposium,0.306306
+The Strokes,Interpol,0.26989
+The Strokes,Cage the Elephant,0.265297
+The Strokes,The Last Shadow Puppets,0.250575
+The Strokes,Little Joy,0.226804
+Tame Impala,Pond,1.0
+Tame Impala,Melody's Echo Chamber,0.700642
+Tame Impala,GUM,0.665735
+Tame Impala,Temples,0.611821
+Tame Impala,Moses Gunn Collective,0.427959
+Tame Impala,The Holydrug Couple,0.426486
+Tame Impala,Unknown Mortal Orchestra,0.422365
+Tame Impala,MGMT,0.403438
+Tame Impala,Post Animal,0.381352
+Tame Impala,Psychedelic Porn Crumpets,0.329288
+The Voidz,Julian Casablancas,1.0
+The Voidz,The Strokes,0.844501
+The Voidz,"Albert Hammond, Jr.",0.65871
+The Voidz,Inner Wave,0.130233
+The Voidz,Interpol,0.124174
+The Voidz,Arctic Monkeys,0.109269
+The Voidz,Cage the Elephant,0.103349
+The Voidz,Pond,0.102468
+The Voidz,Tame Impala,0.096799
+The Voidz,Vampire Weekend,0.088094
+Joji,88rising,1.0
+Joji,Bryant Barnes,0.97789
+Joji,Alan Vuong,0.914594
+Joji,Frank Ocean,0.632188
+Joji,keshi,0.623878
+Joji,d4vd,0.617151
+Joji,Malcolm Todd,0.595929
+Joji,Daniel Caesar,0.549764
+Joji,Bruno Mars,0.490475
+Joji,Don Toliver,0.474896
+Muse,Royal Blood,1.0
+Muse,Placebo,0.711328
+Muse,Nothing But Thieves,0.681477
+Muse,Radiohead,0.641185
+Muse,Franz Ferdinand,0.555378
+Muse,30 Seconds to Mars,0.486864
+Muse,Foo Fighters,0.473307
+Muse,Coldplay,0.468346
+Muse,Feeder,0.4605
+Muse,The Killers,0.454595
+Kanye West,¥$,1.0
+Kanye West,KIDS SEE GHOSTS,0.911469
+Kanye West,JAY-Z & Kanye West,0.667727
+Kanye West,The Throne,0.575261
+Kanye West,Ty Dolla $ign,0.483096
+Kanye West,DONDA,0.426388
+Kanye West,Travi$ Scott,0.422067
+Kanye West,Kendrick Lamar,0.391677
+Kanye West,A$AP Rocky,0.379118
+Kanye West,Consequence,0.348858
+The Weeknd,Tory Lanez,1.0
+The Weeknd,Drake,0.816251
+The Weeknd,Black Atlass,0.78327
+The Weeknd,PARTYNEXTDOOR,0.734531
+The Weeknd,Don Toliver,0.706612
+The Weeknd,Majid Jordan,0.66092
+The Weeknd,Frank Ocean,0.584346
+The Weeknd,Bruno Mars,0.581382
+The Weeknd,Brent Faiyaz,0.567766
+The Weeknd,Givēon,0.547507
+Pierce The Veil,Sleeping With Sirens,1.0
+Pierce The Veil,Isles & Glaciers,0.818902
+Pierce The Veil,Before Today,0.780479
+Pierce The Veil,My Chemical Romance,0.478951
+Pierce The Veil,Picture Me Broken,0.470647
+Pierce The Veil,Get Scared,0.452762
+Pierce The Veil,Chiodos,0.366937
+Pierce The Veil,Alesana,0.279313
+Pierce The Veil,Hail The Sun,0.269141
+Pierce The Veil,Escape The Fate,0.268854
+Travis Scott,Don Toliver,1.0
+Travis Scott,Metro Boomin,0.910321
+Travis Scott,Huncho Jack,0.827793
+Travis Scott,JACKBOYS,0.705182
+Travis Scott,21 Savage,0.665464
+Travis Scott,A$AP Rocky,0.635192
+Travis Scott,Playboi Carti,0.62377
+Travis Scott,Sheck Wes,0.599405
+Travis Scott,Future,0.595947
+Travis Scott,Kanye West,0.56611
+Fairuz,Majida El Roumi,1.0
+Fairuz,Abdel Halim Hafez,0.849123
+Fairuz,Ziad Rahbani,0.838264
+Fairuz,Julia Boutros,0.823557
+Fairuz,Sabah,0.695273
+Fairuz,Melhem Barakat,0.660985
+Fairuz,Oum Kalthoum,0.651361
+Fairuz,Nancy Ajram,0.62253
+Fairuz,عمر دياب,0.621176
+Fairuz,Georgette Sayegh,0.618255
+CASZT,Microgram,1.0
+CASZT,Tame Impala,0.638502
+CASZT,Moka Moyai,0.571298
+CASZT,"Tame Impala, Midnight Juggernauts",0.503648
+CASZT,Człowiek Drzewo,0.400532
+CASZT,Shiny Joe Ryan,0.342157
+CASZT,Lello,0.327025
+CASZT,No Fun Haus,0.256117
+CASZT,Moon Blue,0.232533
+CASZT,Nicholas Allbrook,0.192758
+Kali Uchis,SZA,1.0
+Kali Uchis,Doja Cat,0.792845
+Kali Uchis,Omar Apollo,0.628953
+Kali Uchis,Solange,0.618651
+Kali Uchis,Summer Walker,0.568815
+Kali Uchis,Amaarae,0.553138
+Kali Uchis,Ley Soul,0.550381
+Kali Uchis,Ravyn Lenae,0.541984
+Kali Uchis,Chloe x Halle,0.532498
+Kali Uchis,Raveena,0.498491
+Kendrick Lamar,Baby Keem,1.0
+Kendrick Lamar,Jay Rock,0.898585
+Kendrick Lamar,JID,0.873089
+Kendrick Lamar,"Tyler, The Creator",0.85014
+Kendrick Lamar,Black Hippy,0.761484
+Kendrick Lamar,Kanye West,0.761217
+Kendrick Lamar,J. Cole,0.700636
+Kendrick Lamar,ScHoolboy Q,0.698947
+Kendrick Lamar,A$AP Rocky,0.686031
+Kendrick Lamar,Kendrick Lamar & SZA,0.67706
+Drake,PARTYNEXTDOOR,1.0
+Drake,DJ Khaled,0.657829
+Drake,Drake & Future,0.554442
+Drake,Tory Lanez,0.491242
+Drake,Future,0.480244
+Drake,Bryson Tiller,0.454652
+Drake,J. Cole,0.434852
+Drake,Lil Baby,0.434772
+Drake,Don Toliver,0.433288
+Drake,Gunna,0.433061
+Gorillaz,"The Good, the Bad & the Queen",1.0
+Gorillaz,Damon Albarn,0.845508
+Gorillaz,MGMT,0.460027
+Gorillaz,Radiohead,0.369201
+Gorillaz,Foster the People,0.316394
+Gorillaz,The Strokes,0.273804
+Gorillaz,LCD Soundsystem,0.264923
+Gorillaz,Twenty One Pilots,0.26141
+Gorillaz,Beck,0.255736
+Gorillaz,Franz Ferdinand,0.245966
+Billie Eilish,FINNEAS,1.0
+Billie Eilish,Olivia Rodrigo,0.582834
+Billie Eilish,Melanie Martinez,0.515955
+Billie Eilish,Lana Del Rey,0.406427
+Billie Eilish,Ariana Grande,0.399799
+Billie Eilish,Gracie Abrams,0.36922
+Billie Eilish,Conan Gray,0.360138
+Billie Eilish,Tate McRae,0.346796
+Billie Eilish,Lorde,0.33845
+Billie Eilish,Chappell Roan,0.329362
+Qideyt,طارق العربي طرقان,1.0
+Qideyt,Mazzikas,0.827078
+Qideyt,SpaceToon,0.725878
+Qideyt,عزالدين الشويخ,0.47111
+Qideyt,Heart Hanin,0.466953
+Qideyt,Moussiqa,0.409134
+Qideyt,HiDaTabs,0.364987
+Qideyt,Rap AR Anime,0.308084
+Qideyt,Emy Hetari,0.289393
+Qideyt,DJ Smemo,0.244912
+TV Girl,Jordana,1.0
+TV Girl,Eyedress,0.414778
+TV Girl,Mac DeMarco,0.401187
+TV Girl,Roar,0.393528
+TV Girl,Current Joys,0.3606
+TV Girl,VACATIONS,0.352604
+TV Girl,Cults,0.325076
+TV Girl,Alex G,0.320416
+TV Girl,juju<3,0.283608
+TV Girl,Yot Club,0.279055
+Daft Punk,Justice,1.0
+Daft Punk,Modjo,0.718737
+Daft Punk,Stardust,0.538756
+Daft Punk,Thomas Bangalter,0.519172
+Daft Punk,Kavinsky,0.42966
+Daft Punk,Cassius,0.407694
+Daft Punk,Sebastian,0.353044
+Daft Punk,Gesaffelstein,0.335448
+Daft Punk,Breakbot,0.302048
+Daft Punk,The Chemical Brothers,0.288036
+طارق العربي طرقان,Qideyt,1.0
+طارق العربي طرقان,SpaceToon,0.975956
+طارق العربي طرقان,Mazzikas,0.774144
+طارق العربي طرقان,Rap AR Anime,0.562739
+طارق العربي طرقان,Spacepower,0.253635
+طارق العربي طرقان,Toyor Baby,0.211269
+طارق العربي طرقان,Moussiqa,0.199502
+طارق العربي طرقان,Fadia,0.183633
+طارق العربي طرقان,Mawshahat Andalousyia,0.168752
+طارق العربي طرقان,عزالدين الشويخ,0.16542
+Nirvana,Kurt Cobain,1.0
+Nirvana,The Jins,0.388122
+Nirvana,Alice in Chains,0.374272
+Nirvana,Mudhoney,0.364942
+Nirvana,Soundgarden,0.351147
+Nirvana,Meat Puppets,0.30512
+Nirvana,Hole,0.297125
+Nirvana,Stone Temple Pilots,0.285498
+Nirvana,Green River,0.238638
+Nirvana,Mad Season,0.238203
+Mazzikas,Qideyt,1.0
+Mazzikas,طارق العربي طرقان,0.935998
+Mazzikas,SpaceToon,0.75344
+Mazzikas,Cheb Akil,0.499152
+Mazzikas,Fayçal Azizi,0.475113
+Mazzikas,Moussiqa,0.438591
+Mazzikas,Cheb Amrou,0.407509
+Mazzikas,Labess,0.406687
+Mazzikas,Rap AR Anime,0.381336
+Mazzikas,el dey,0.362493
+Mawshahat Andalousyia,Hayaf YASSINE,1.0
+Mawshahat Andalousyia,Ghada Shbeir,0.567872
+Mawshahat Andalousyia,طارق العربي طرقان,0.424146
+Mawshahat Andalousyia,Oumeima El Khalil,0.417187
+Mawshahat Andalousyia,Wadih El Safi,0.409607
+Mawshahat Andalousyia,Faia Younan,0.396954
+Mawshahat Andalousyia,Zaki Nassif,0.388207
+Mawshahat Andalousyia,Fadia,0.368955
+Mawshahat Andalousyia,Qideyt,0.355691
+Mawshahat Andalousyia,Sheikh Imam,0.342429
+Omar Khairat,Ali El Haggar,1.0
+Omar Khairat,Wust El Balad,0.917242
+Omar Khairat,Loai,0.789573
+Omar Khairat,Amr Mostafa,0.733083
+Omar Khairat,Aida Al Ayoubi,0.703072
+Omar Khairat,Hossam Habib,0.65366
+Omar Khairat,Khaled Selim,0.624446
+Omar Khairat,Wama,0.62406
+Omar Khairat,Medhat Saleh,0.598721
+Omar Khairat,Amr Ismail,0.55894
+"Tyler, The Creator",OFWGKTA,1.0
+"Tyler, The Creator",Kendrick Lamar,0.521877
+"Tyler, The Creator",Childish Gambino,0.520654
+"Tyler, The Creator",Domo Genesis,0.505701
+"Tyler, The Creator",MellowHype,0.476687
+"Tyler, The Creator",Casey Veggies,0.444761
+"Tyler, The Creator",Earl Sweatshirt,0.431415
+"Tyler, The Creator",Mike G,0.404578
+"Tyler, The Creator",Pharrell Williams,0.356652
+"Tyler, The Creator",Kanye West,0.329613
+The Neighbourhood,Jesse®,1.0
+The Neighbourhood,Beach Weather,0.48339
+The Neighbourhood,Arctic Monkeys,0.303815
+The Neighbourhood,Jaymes Young,0.29277
+The Neighbourhood,sombr,0.292612
+The Neighbourhood,The 1975,0.254126
+The Neighbourhood,Twenty One Pilots,0.243695
+The Neighbourhood,Wallows,0.238023
+The Neighbourhood,The Technicolors,0.227279
+The Neighbourhood,Balu Brigada,0.202144
+Radiohead,Thom Yorke,1.0
+Radiohead,Atoms for Peace,0.579237
+Radiohead,Jeff Buckley,0.352635
+Radiohead,Muse,0.32929
+Radiohead,The Strokes,0.283576
+Radiohead,Nirvana,0.270599
+Radiohead,Philip Selway,0.259367
+Radiohead,Weezer,0.25241
+Radiohead,The Smiths,0.252055
+Radiohead,Blur,0.22235
+Temples,Pond,1.0
+Temples,Moses Gunn Collective,0.604232
+Temples,GUM,0.574198
+Temples,Tame Impala,0.497583
+Temples,Psychedelic Porn Crumpets,0.487037
+Temples,Unknown Mortal Orchestra,0.475923
+Temples,Django Django,0.466372
+Temples,The Holydrug Couple,0.454602
+Temples,Jacco Gardner,0.442623
+Temples,The Lazy Eyes,0.435821
+Mac Miller,Joey Bada$$,1.0
+Mac Miller,Isaiah Rashad,0.86791
+Mac Miller,Vince Staples,0.823729
+Mac Miller,Childish Gambino,0.799301
+Mac Miller,Logic,0.793604
+Mac Miller,Chance the Rapper,0.73791
+Mac Miller,J. Cole,0.723165
+Mac Miller,JID,0.696142
+Mac Miller,A$AP Rocky,0.695175
+Mac Miller,88-Keys,0.687624
+JPEGMAFIA,Devon Hendryx,1.0
+JPEGMAFIA,JPEGMAFIA & Danny Brown,0.7271
+JPEGMAFIA,Danny Brown,0.632061
+JPEGMAFIA,Injury Reserve,0.510041
+JPEGMAFIA,"JPEGMAFIA, Danny Brown",0.494178
+JPEGMAFIA,Death Grips,0.489824
+JPEGMAFIA,Denzel Curry,0.430073
+JPEGMAFIA,Ghais Guevara,0.381928
+JPEGMAFIA,"JPEGMAFIA, Denzel Curry",0.380414
+JPEGMAFIA,Cities Aviv,0.334366
+Cuco,Los Retros,1.0
+Cuco,boy pablo,0.456702
+Cuco,Strawberry Guy,0.29076
+Cuco,VACATIONS,0.288093
+Cuco,mellow fellow,0.264241
+Cuco,The Marías,0.260662
+Cuco,Her's,0.249785
+Cuco,Banes World,0.231024
+Cuco,Vansire,0.207325
+Cuco,TEMPOREX,0.203364
+Playboi Carti,Ken Carson,1.0
+Playboi Carti,Destroy Lonely,0.841423
+Playboi Carti,Lil Uzi Vert,0.619764
+Playboi Carti,Homixide Gang,0.5417
+Playboi Carti,OsamaSon,0.539628
+Playboi Carti,Young Thug,0.419084
+Playboi Carti,Travi$ Scott,0.418235
+Playboi Carti,Che,0.41696
+Playboi Carti,ApolloRed1,0.404273
+Playboi Carti,Nine Vicious,0.403342
+A$AP Rocky,A$AP Mob,1.0
+A$AP Rocky,Baby Keem,0.872473
+A$AP Rocky,Travi$ Scott,0.739851
+A$AP Rocky,Denzel Curry,0.646703
+A$AP Rocky,Kanye West,0.592288
+A$AP Rocky,Isaiah Rashad,0.578089
+A$AP Rocky,J. Cole,0.574585
+A$AP Rocky,ScHoolboy Q,0.567837
+A$AP Rocky,Joey Bada$$,0.561754
+A$AP Rocky,Pusha T,0.554152
+Frank Ocean,Daniel Caesar,1.0
+Frank Ocean,Brent Faiyaz,0.857734
+Frank Ocean,Sonder,0.797196
+Frank Ocean,Steve Lacy,0.758769
+Frank Ocean,"Tyler, The Creator",0.751364
+Frank Ocean,SZA,0.628599
+Frank Ocean,Kanye West,0.587208
+Frank Ocean,Sampha,0.546754
+Frank Ocean,Solange,0.525788
+Frank Ocean,PARTYNEXTDOOR,0.520283
+J. Cole,Bas,1.0
+J. Cole,Dreamville,0.95624
+J. Cole,Cozz,0.874928
+J. Cole,JID,0.830197
+J. Cole,Joey Bada$$,0.779171
+J. Cole,Cordae,0.726859
+J. Cole,Baby Keem,0.714008
+J. Cole,Lute,0.653356
+J. Cole,Drake,0.603475
+J. Cole,A$AP Rocky,0.598835
+Thundercat,DOMi & JD Beck,1.0
+Thundercat,Louis Cole,0.937738
+Thundercat,Jill Scott,0.904456
+Thundercat,Anderson .Paak,0.887083
+Thundercat,Steve Lacy,0.795013
+Thundercat,The Internet,0.763476
+Thundercat,Hiatus Kaiyote,0.747201
+Thundercat,Flea,0.696966
+Thundercat,NxWorries,0.682542
+Thundercat,Free Nationals,0.673077
+Baby Keem,A$AP Rocky,1.0
+Baby Keem,Kendrick Lamar,0.921354
+Baby Keem,Don Toliver,0.813327
+Baby Keem,J. Cole,0.785232
+Baby Keem,Isaiah Rashad,0.765362
+Baby Keem,Vince Staples,0.734874
+Baby Keem,JID,0.677063
+Baby Keem,Kenny Mason,0.632667
+Baby Keem,Denzel Curry,0.62808
+Baby Keem,Lil Yachty,0.588858
+Brent Faiyaz,Sonder,1.0
+Brent Faiyaz,Avenoir,0.426385
+Brent Faiyaz,Bryson Tiller,0.40782
+Brent Faiyaz,Paperboy Fabe,0.343077
+Brent Faiyaz,PARTYNEXTDOOR,0.317149
+Brent Faiyaz,Daniel Caesar,0.309033
+Brent Faiyaz,Chase Shakur,0.272153
+Brent Faiyaz,Givēon,0.259411
+Brent Faiyaz,Frank Ocean,0.208116
+Brent Faiyaz,Miguel,0.202829
+Men I Trust,Tokyo Tea Room,1.0
+Men I Trust,strongboi,0.891437
+Men I Trust,MUNYA,0.674554
+Men I Trust,Moon Panda,0.664683
+Men I Trust,Crumb,0.628261
+Men I Trust,The Marías,0.569213
+Men I Trust,No Vacation,0.434803
+Men I Trust,Tennis,0.407177
+Men I Trust,Vansire,0.395498
+Men I Trust,Night Tapes,0.392026
+Metro Boomin,21 Savage,1.0
+Metro Boomin,Travi$ Scott,0.877673
+Metro Boomin,JACKBOYS,0.835772
+Metro Boomin,Offset,0.732983
+Metro Boomin,Huncho Jack,0.589074
+Metro Boomin,Future,0.576623
+Metro Boomin,Don Toliver,0.536012
+Metro Boomin,EI8HT,0.509397
+Metro Boomin,Young Stoner Life,0.498523
+Metro Boomin,Quavo,0.490018
+Justice,Sebastian,1.0
+Justice,Busy P,0.702255
+Justice,Daft Punk,0.659794
+Justice,Gesaffelstein,0.605072
+Justice,Mr. Oizo,0.603485
+Justice,Breakbot,0.530479
+Justice,Digitalism,0.502828
+Justice,Kavinsky,0.493351
+Justice,Alan Braxe & Fred Falke,0.468945
+Justice,Cassius,0.453546
+Steve Lacy,The Internet,1.0
+Steve Lacy,Matt Martians,0.574953
+Steve Lacy,Brent Faiyaz,0.500227
+Steve Lacy,Frank Ocean,0.481215
+Steve Lacy,Daniel Caesar,0.342753
+Steve Lacy,Sonder,0.320746
+Steve Lacy,Ravyn Lenae,0.298505
+Steve Lacy,Thundercat,0.292447
+Steve Lacy,orion sun,0.260579
+Steve Lacy,Fousheé,0.260037
+The Marías,Not For Radio,1.0
+The Marías,Clairo,0.341803
+The Marías,Men I Trust,0.321855
+The Marías,beabadoobee,0.275763
+The Marías,Tokyo Tea Room,0.254527
+The Marías,Strawberry Guy,0.228121
+The Marías,Shelly,0.22748
+The Marías,54 Ultra,0.218509
+The Marías,Bubble Tea and Cigarettes,0.19071
+The Marías,Cuco,0.185803
+Parcels,L'Impératrice,1.0
+Parcels,Franc Moody,0.970717
+Parcels,Poolside,0.803313
+Parcels,The Whitest Boy Alive,0.682112
+Parcels,Leisure,0.676084
+Parcels,Papooz,0.472608
+Parcels,Zimmer90,0.448994
+Parcels,Miami Horror,0.44152
+Parcels,Kraak & Smaak,0.43628
+Parcels,Electric Guest,0.42658
+Pink Floyd,David Gilmour,1.0
+Pink Floyd,Roger Waters,0.974454
+Pink Floyd,Syd Barrett,0.696697
+Pink Floyd,King Crimson,0.651211
+Pink Floyd,Led Zeppelin,0.508652
+Pink Floyd,The Doors,0.454423
+Pink Floyd,"Emerson, Lake & Palmer",0.434181
+Pink Floyd,Genesis,0.413715
+Pink Floyd,Dire Straits,0.401005
+Pink Floyd,The Alan Parsons Project,0.399773
+Khaled,Cheb Mami,1.0
+Khaled,Cheb Hasni,0.840469
+Khaled,Raïna Raï,0.502765
+Khaled,Rachid Taha,0.481603
+Khaled,Faudel,0.386916
+Khaled,Cheikha Rimitti,0.316384
+Khaled,Babylone,0.228366
+Khaled,Soolking,0.212142
+Khaled,Fairuz,0.193085
+Khaled,Souad Massi,0.183418
+SZA,Summer Walker,1.0
+SZA,Doja Cat,0.637422
+SZA,Kali Uchis,0.60686
+SZA,Victoria Monét,0.560911
+SZA,Jhené Aiko,0.552497
+SZA,Mariah the Scientist,0.520795
+SZA,Ravyn Lenae,0.508924
+SZA,Doechii,0.487508
+SZA,Kehlani,0.486704
+SZA,Beyoncé,0.476605
+Childish Gambino,"Tyler, The Creator",1.0
+Childish Gambino,Chance the Rapper,0.680928
+Childish Gambino,Mac Miller,0.676708
+Childish Gambino,Kid Cudi,0.599172
+Childish Gambino,OFWGKTA,0.575402
+Childish Gambino,Vince Staples,0.563411
+Childish Gambino,BROCKHAMPTON,0.543147
+Childish Gambino,Kendrick Lamar,0.538293
+Childish Gambino,A$AP Rocky,0.533332
+Childish Gambino,Aminé,0.529915
+Mac DeMarco,LOVING,1.0
+Mac DeMarco,VACATIONS,0.899149
+Mac DeMarco,Current Joys,0.83814
+Mac DeMarco,TV Girl,0.811818
+Mac DeMarco,Good Morning,0.769456
+Mac DeMarco,HOMESHAKE,0.750712
+Mac DeMarco,King Krule,0.709752
+Mac DeMarco,Eyedress,0.704585
+Mac DeMarco,Her's,0.638488
+Mac DeMarco,Yot Club,0.630318
+MGMT,Starfucker,1.0
+MGMT,Pond,0.905345
+MGMT,Foster the People,0.798475
+MGMT,The Flaming Lips,0.790327
+MGMT,LCD Soundsystem,0.769544
+MGMT,Animal Collective,0.731136
+MGMT,Tame Impala,0.715553
+MGMT,Vampire Weekend,0.702501
+MGMT,Foxygen,0.699763
+MGMT,Phoenix,0.62806
+Hotel Ugly,MARQ,1.0
+Hotel Ugly,Zach Templar,0.756591
+Hotel Ugly,VACATIONS,0.733248
+Hotel Ugly,Ralph Castelli,0.728757
+Hotel Ugly,54 Ultra,0.436841
+Hotel Ugly,crisaunt,0.349952
+Hotel Ugly,juju<3,0.335085
+Hotel Ugly,Feng Suave,0.326384
+Hotel Ugly,Kid Bloom,0.307046
+Hotel Ugly,Wabie,0.306633
+Malcolm Todd,Troy Javelona,1.0
+Malcolm Todd,Zach Templar,0.360691
+Malcolm Todd,grentperez,0.280072
+Malcolm Todd,Dominic Fike,0.276666
+Malcolm Todd,Meldrop,0.263994
+Malcolm Todd,Javi Vera,0.258225
+Malcolm Todd,natalie jinju,0.222454
+Malcolm Todd,F3miii,0.216588
+Malcolm Todd,beabadoobee,0.204813
+Malcolm Todd,LAUNDRY DAY,0.19613
+Chezile,Willis,1.0
+Chezile,Ralph Castelli,0.829075
+Chezile,grentperez,0.565665
+Chezile,Andrew Garden,0.527674
+Chezile,rei brown,0.480755
+Chezile,David Kushner,0.454
+Chezile,SYML,0.447593
+Chezile,The Neighbourhood,0.435361
+Chezile,sombr,0.421085
+Chezile,Michael Seyer,0.411721
+Beach House,Alvvays,1.0
+Beach House,Slowdive,0.904814
+Beach House,Melody's Echo Chamber,0.728851
+Beach House,Wild Nothing,0.664072
+Beach House,Cemeteries,0.631209
+Beach House,Cocteau Twins,0.603237
+Beach House,Henry Krieger,0.598323
+Beach House,Mazzy Star,0.596616
+Beach House,Japanese Breakfast,0.587256
+Beach House,The Radio Dept.,0.578361
+Arctic Monkeys,The Last Shadow Puppets,1.0
+Arctic Monkeys,Alex Turner,0.556984
+Arctic Monkeys,Miles Kane,0.426608
+Arctic Monkeys,Miles Kane and the Death Ramps,0.408158
+Arctic Monkeys,The Strokes,0.378189
+Arctic Monkeys,The Fratellis,0.246084
+Arctic Monkeys,Catfish and the Bottlemen,0.202727
+Arctic Monkeys,Cage the Elephant,0.198995
+Arctic Monkeys,Mini Mansions,0.198411
+Arctic Monkeys,Alexandra Savior,0.188258
+Balu Brigada,Twenty One Pilots,1.0
+Balu Brigada,Almost Monday,0.595423
+Balu Brigada,Royel Otis,0.493019
+Balu Brigada,Little Image,0.373945
+Balu Brigada,Good Neighbours,0.352198
+Balu Brigada,half•alive,0.303287
+Balu Brigada,Coin,0.30004
+Balu Brigada,Wallows,0.292472
+Balu Brigada,Dayglow,0.254582
+Balu Brigada,Rec Hall,0.248201
+El Shab Arab,Najib Alhoush,1.0
+El Shab Arab,Hamid El Shaeri,0.952879
+El Shab Arab,Ahmed Ben Ali,0.841445
+El Shab Arab,Ahmed Fakroun,0.681593
+El Shab Arab,Ibrahim Hesnawi,0.352131
+El Shab Arab,Khaled Al Reigh,0.093933
+El Shab Arab,Ouiness,0.04987
+El Shab Arab,Elias Rahbani,0.04053
+El Shab Arab,Cheb Bakr,0.03963
+El Shab Arab,Ahmed Malek,0.034953
+Strawberry Guy,VACATIONS,1.0
+Strawberry Guy,"Dream, Ivory",0.690739
+Strawberry Guy,Oscar Lang,0.675185
+Strawberry Guy,Current Joys,0.659774
+Strawberry Guy,saturra,0.557799
+Strawberry Guy,Harmless,0.544244
+Strawberry Guy,Bubble Tea and Cigarettes,0.507701
+Strawberry Guy,Salvia Palth,0.498246
+Strawberry Guy,Yot Club,0.495524
+Strawberry Guy,Cigarettes After Sex,0.494675
+Phoenix,Two Door Cinema Club,1.0
+Phoenix,Vampire Weekend,0.996542
+Phoenix,Passion Pit,0.916284
+Phoenix,Foster the People,0.859603
+Phoenix,Atlas Genius,0.689079
+Phoenix,Grouplove,0.679658
+Phoenix,Starfucker,0.661131
+Phoenix,The Whitest Boy Alive,0.622202
+Phoenix,Ra Ra Riot,0.619589
+Phoenix,Friendly Fires,0.603704
+Akhras,Autostrad,1.0
+Akhras,Karim Osama,0.937808
+Akhras,Siilawy,0.437009
+Akhras,Nedaa Shrara,0.395918
+Akhras,AL SHAMI,0.35086
+Akhras,Bigsam,0.337099
+Akhras,Yazan Haifawi,0.307949
+Akhras,Hijazi,0.285295
+Akhras,Nassif Zeytoun,0.261843
+Akhras,Tariq Alfaqeh,0.242626
+Vacations,Strawberry Guy,1.0
+Vacations,Yot Club,0.979097
+Vacations,Vansire,0.775528
+Vacations,No Vacation,0.659514
+Vacations,Current Joys,0.640888
+Vacations,Harmless,0.607461
+Vacations,"Dream, Ivory",0.59965
+Vacations,Her's,0.575709
+Vacations,Mind’s Eye,0.571724
+Vacations,Los Retros,0.543998
+21 Savage,Metro Boomin,1.0
+21 Savage,Offset,0.667397
+21 Savage,Future,0.665081
+21 Savage,Travi$ Scott,0.641598
+21 Savage,21 Savage & Metro Boomin,0.604884
+21 Savage,Lil Baby,0.572723
+21 Savage,Quavo,0.56577
+21 Savage,Young Stoner Life,0.54515
+21 Savage,Migos,0.525225
+21 Savage,Gunna,0.520144
+The Symposium,Benches,1.0
+The Symposium,Mustard Service,0.888118
+The Symposium,machinegum,0.885328
+The Symposium,Inner Wave,0.848366
+The Symposium,Hot Flash Heat Wave,0.841002
+The Symposium,"Albert Hammond, Jr.",0.827097
+The Symposium,The Red Pears,0.782108
+The Symposium,Sea of Lettuce,0.739029
+The Symposium,The Slaps,0.660809
+The Symposium,The Strokes,0.653403
+Yeat,SeptembersRich,1.0
+Yeat,Ken Carson,0.513805
+Yeat,"Yeat, Lil Uzi Vert",0.425469
+Yeat,Ian,0.384161
+Yeat,Destroy Lonely,0.371738
+Yeat,Kankan,0.356302
+Yeat,Rich Amiri,0.352293
+Yeat,BNYX®,0.333567
+Yeat,Lil Uzi Vert,0.332884
+Yeat,Homixide Gang,0.328958
+Love Spells,DyE,1.0
+Love Spells,Blood Orange,0.916886
+Love Spells,No Rome,0.607082
+Love Spells,Bubble Tea and Cigarettes,0.49044
+Love Spells,Minova,0.487873
+Love Spells,Morning Silk,0.360514
+Love Spells,Them & I,0.356741
+Love Spells,Tokyo Tea Room,0.332114
+Love Spells,Henry Morris,0.314118
+Love Spells,Chezile,0.304237
+alan vuong,Pino,1.0
+alan vuong,Avenoir,0.873008
+alan vuong,Nobu Woods,0.830648
+alan vuong,Tona Glover,0.588051
+alan vuong,Joji,0.487522
+alan vuong,Chase Shakur,0.475977
+alan vuong,Greek,0.454687
+alan vuong,Zeke Bleu,0.383314
+alan vuong,Bryant Barnes,0.367696
+alan vuong,Karri,0.367595
+Nothing But Thieves,Man-Made Sunshine,1.0
+Nothing But Thieves,Royal Blood,0.506264
+Nothing But Thieves,Friday Pilots Club,0.378549
+Nothing But Thieves,Himalayas,0.377555
+Nothing But Thieves,Airways,0.362787
+Nothing But Thieves,The Amazons,0.318967
+Nothing But Thieves,The Technicolors,0.31716
+Nothing But Thieves,Des Rocs,0.273756
+Nothing But Thieves,YONAKA,0.272694
+Nothing But Thieves,Betcha,0.269775
+Michel Berger,Daniel Balavoine,1.0
+Michel Berger,France Gall,0.902129
+Michel Berger,Alain Souchon,0.854216
+Michel Berger,Jean-Jacques Goldman,0.786425
+Michel Berger,Véronique Sanson,0.759184
+Michel Berger,Francis Cabrel,0.746047
+Michel Berger,Eddy Mitchell,0.74284
+Michel Berger,Julien Clerc,0.739074
+Michel Berger,Johnny Hallyday,0.734319
+Michel Berger,Laurent Voulzy,0.729008
+Anyma,ARTBAT,1.0
+Anyma,Kevin De Vries,0.825869
+Anyma,Agents Of Time,0.685054
+Anyma,Loofy,0.400313
+Anyma,Colyn,0.395503
+Anyma,Silver Panda,0.284793
+Anyma,Armin van Buuren,0.267854
+Anyma,Tiësto,0.265875
+Anyma,Kölsch,0.224149
+Anyma,Amelie Lens,0.215484
